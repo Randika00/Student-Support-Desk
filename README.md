@@ -1,4 +1,5 @@
 ## Student-Support-Desk 📚🔔
+`PHP` `AJAX` `XAMPP` `MySQL` `Bootstrap` `CSS` `JavaScript` `HTML` `Interface` 
 
 
 The Student Help Desk strives to provide students access to the technology information and resources they need at the time they need it, along with 
