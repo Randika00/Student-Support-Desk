@@ -18,3 +18,16 @@ assistance, and guiding them towards success. 📚✨
 
 From simplifying admissions to enhancing student satisfaction, our Student Help Desk Application is more than just software—it's a catalyst for 
 positive change in the educational landscape. Join us in revolutionizing student support and nurturing meaningful relationships between learners and educators. 🌟👩‍🎓👨‍🏫
+
+Student Support Desk key functions:-
+
+     * Ticket Submission: 🎫
+     * User Authentication: 🔒
+     * Ticket Management: 📋
+     * Communication Tools: 💬
+     * Knowledge Base: 📚
+     * Analytics and Reporting: 📊
+     * User Profiles: 👤
+     * Accessibility Features: ♿️
+     
+     
