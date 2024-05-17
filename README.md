@@ -21,13 +21,13 @@ positive change in the educational landscape. Join us in revolutionizing student
 
 Student Support Desk key functions:-
 
-     * Ticket Submission: 🎫
-     * User Authentication: 🔒
-     * Ticket Management: 📋
-     * Communication Tools: 💬
-     * Knowledge Base: 📚
-     * Analytics and Reporting: 📊
-     * User Profiles: 👤
-     * Accessibility Features: ♿️
+            * Ticket Submission: 🎫
+            * User Authentication: 🔒
+            * Ticket Management: 📋
+            * Communication Tools: 💬
+            * Knowledge Base: 📚
+            * Analytics and Reporting: 📊
+            * User Profiles: 👤
+            * Accessibility Features: ♿️
      
      
