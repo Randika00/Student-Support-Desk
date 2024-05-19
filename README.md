@@ -14,7 +14,7 @@ and intuitive design, we streamline the entire process, from login to resolution
 
 Gone are the days of cumbersome paperwork and endless emails. With this system, students can easily manage their profiles, update information, and 
 engage with their academic journey like never before. And for educators, it's a powerful tool for staying connected with their students, providing timely 
-assistance, and guiding them towards success. 📚✨
+assistance, and guiding them towards success. 📚✨ 
 
 From simplifying admissions to enhancing student satisfaction, our Student Help Desk Application is more than just software—it's a catalyst for 
 positive change in the educational landscape. Join us in revolutionizing student support and nurturing meaningful relationships between learners and educators. 🌟👩‍🎓👨‍🏫
